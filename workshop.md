@@ -9,4 +9,17 @@ This event brings together researchers at the intersection of security and artif
 - Register: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
 
 ## Programme
-TBD
+The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU Delft.
+
+| **Time**    | **What**                |
+|-------------|-------------------------|
+| 9:30-10:00  | Walk-in                 |
+| 10:00-10:10 | Welcome                 |
+| 10:10-11:00 | Keynote                 |
+| 11:00-11:20 | Coffee                  |
+| 11:20-12:00 | Poster/Breakout session |
+| 12:00-13:00 | Lunch                   |
+| 13:00-13:45 | Keynote                 |
+| 13:45-14:00 | Coffee                  |
+| 14:00-15:30 | Breakout sessions       |
+| 15:30-???   | Drinks & Bitterballen   |
