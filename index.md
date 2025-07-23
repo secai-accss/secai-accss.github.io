@@ -2,6 +2,8 @@
 
 The **Working Group Security & AI (Sec&AI)** represents all Dutch academic institutions where cybersecurity research is conducted using artificial intelligence. Our objective is to bring together cybersecurity and AI experts addressing security challenges from technical, legal, and governmental perspectives.
 
+The [2nd ACCSS Security & AI Workshop on Generative AI](/workshop) will take place on 23 October 2025 at the TU Delft, please find all information [here](/workshop).
+
 ## Objective
 We aim to foster collaboration between Dutch research institutes working at the intersection of security and artificial intelligence by bringing together researchers across disciplines, including technical, humanities, and policy-making, to address security and AI challenges. This working group acts as a central hub to connect researchers from different backgrounds, encourage joint proposal writing, connect PhD students needing expertise from adjacent fields, and share recent advancements in the field.
 
