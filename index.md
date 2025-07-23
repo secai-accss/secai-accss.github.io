@@ -1,8 +1,8 @@
-# Working Group Security & AI
+# ACCSS - Working Group Security & AI
 
 The **Working Group Security & AI (Sec&AI)** represents all Dutch academic institutions where cybersecurity research is conducted using artificial intelligence. Our objective is to bring together cybersecurity and AI experts addressing security challenges from technical, legal, and governmental perspectives.
 
-## Objective Sec&AI
+## Objective
 We aim to foster collaboration between Dutch research institutes working at the intersection of security and artificial intelligence by bringing together researchers across disciplines, including technical, humanities, and policy-making, to address security and AI challenges. This working group acts as a central hub to connect researchers from different backgrounds, encourage joint proposal writing, connect PhD students needing expertise from adjacent fields, and share recent advancements in the field.
 
 By bringing researchers together, we provide participants with an overview of current advancements, develop a shared vision for the future direction of secure AI solutions, and plan future projects. Moreover, this collaboration allows the Security & AI working group to serve as a point of contact for policymakers and industry, ensuring a positive impact on societal questions related to the field.
@@ -14,6 +14,19 @@ In short, our key objectives are:
 
 ## Organisation
 We strive for a meeting circuit that fits seamlessly with the existing organization of ACCSS. To connect researchers in our focus area, we bootstrap an annual workshop regarding Security & AI. During this workshop, we exchange previous results, brainstorm on potential collaborations for upcoming funding calls (faculty), connect PhD students working in overlapping domains, and share lessons learned from educational curricula. Moreover, members of the working group will be invited to a semi-annual meet-up to discuss potential funding opportunities and collaborations. 
+
+# 2nd ACCSS Workshop on Security & AI
+Don’t miss the Security and Trustworthiness of AI workshop (an ACCSS workshop) in September!
+
+This event brings together researchers at the intersection of security and trustworthy artificial intelligence with the aim to foster innovation and share groundbreaking ideas, experiences, and research opportunities within the field of security and AI.
+
+## Details
+- Date: 23 October 2025 10:00-16:00 
+- Location: TU Delft - Mekelweg 5, 2628 CD Delft
+- Register: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
+
+## Programme
+TBD
 
 ## Contact
 Katja Tuma ([k.tuma@vu.nl](mailto:k.tuma@vu.nl)), Megha Khosla ([m.khosla@tudelft.nl](mailto:m.khosla@tudelft.nl)) and Thijs van Ede ([t.s.vanede@utwente.nl](mailto:t.s.vanede@utwente.nl)). The full SIG-CS membership list can be found here. Researchers from research groups affiliated with the SIG-CS can find their representative and address them if necessary.
