@@ -10,50 +10,19 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1EKYHWKNBB"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-	
-	  gtag('config', 'G-1EKYHWKNBB');
-	</script>
+    
   </head>
   <body>
   <center>
     <div class="wrapper">
-      <header>
-        <!--<h1 class="header" style="border-bottom: none; padding-bottom: none">Katja Tuma</h1>-->
-		<img src="katja-cr-s.JPEG" style="width: 80%; margin: 10px 0 10px 0; display: block;">
-		<p>Asst. Prof. @ TU/e</p>
-        <ul>
-			<li><a href="https://scholar.google.se/citations?user=5lOAGbwAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></li>
-			    <!--<li><a id="raw-url" href="cv.pdf" target="_blank">Open CV</a></li>-->
-			<li><a href="mailto:k.tuma@tue.nl">k.tuma[at]tue.nl</a></li>
-        </ul>
-      </header>
-
       <section>
         {{ content }}
       </section>
 
-		
       <footer>
-		  <p><small> © 2021 Katja Tuma · Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+		  <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
       </footer>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
     
   </center>
   </body>
