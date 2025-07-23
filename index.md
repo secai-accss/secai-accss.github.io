@@ -15,18 +15,5 @@ In short, our key objectives are:
 ## Organisation
 We strive for a meeting circuit that fits seamlessly with the existing organization of ACCSS. To connect researchers in our focus area, we bootstrap an annual workshop regarding Security & AI. During this workshop, we exchange previous results, brainstorm on potential collaborations for upcoming funding calls (faculty), connect PhD students working in overlapping domains, and share lessons learned from educational curricula. Moreover, members of the working group will be invited to a semi-annual meet-up to discuss potential funding opportunities and collaborations. 
 
-# 2nd ACCSS Workshop on Security & AI
-Don’t miss the Security and Trustworthiness of AI workshop (an ACCSS workshop) in September!
-
-This event brings together researchers at the intersection of security and trustworthy artificial intelligence with the aim to foster innovation and share groundbreaking ideas, experiences, and research opportunities within the field of security and AI.
-
-## Details
-- Date: 23 October 2025 10:00-16:00 
-- Location: TU Delft - Mekelweg 5, 2628 CD Delft
-- Register: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
-
-## Programme
-TBD
-
 ## Contact
 Katja Tuma ([k.tuma@vu.nl](mailto:k.tuma@vu.nl)), Megha Khosla ([m.khosla@tudelft.nl](mailto:m.khosla@tudelft.nl)) and Thijs van Ede ([t.s.vanede@utwente.nl](mailto:t.s.vanede@utwente.nl)). The full SIG-CS membership list can be found here. Researchers from research groups affiliated with the SIG-CS can find their representative and address them if necessary.
