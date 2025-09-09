@@ -1,4 +1,5 @@
-![Workshop banner]({{ '/assets/img/banner.jpg' | relative_url }})
+![Workshop banner]({{ '/assets/img/banner.jpg' | relative_url }}){: style="display:block;width:100%;height:auto;" }
+
 # ACCSS - Working Group Security & AI
 
 The **Working Group Security & AI (Sec&AI)** represents all Dutch academic institutions where cybersecurity research is conducted using artificial intelligence. Our objective is to bring together cybersecurity and AI experts addressing security challenges from technical, legal, and governmental perspectives.
