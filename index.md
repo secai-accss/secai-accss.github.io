@@ -1,4 +1,5 @@
-![Workshop banner]({{ '/assets/img/banner.jpg' | relative_url }}){: style="display:block;width:100%;height:auto;" }
+![Workshop banner]({{ '/assets/img/banner.jpg' | relative_url }}){: style="display:block;max-width:1200px;width:100%;height:auto;margin:0 auto;" }
+
 
 # ACCSS - Working Group Security & AI
 
