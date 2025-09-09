@@ -5,6 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<style>
+  html, body { margin: 0; }
+  .wrapper { 
+    max-width: none !important; 
+    width: 100% !important; 
+    box-sizing: border-box; 
+    padding-left: 1rem; 
+    padding-right: 1rem;
+  }
+</style>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -13,7 +23,7 @@
     
   </head>
   <body>
-  <center>
+ 
     <div class="wrapper">
       <section>
         {{ content }}
@@ -24,6 +34,6 @@
       </footer>
     </div>
     
-  </center>
+  
   </body>
 </html>
