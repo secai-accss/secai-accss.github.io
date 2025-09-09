@@ -5,14 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	<style>
+<style>
   html, body { margin: 0; }
-  .wrapper { 
-    max-width: none !important; 
-    width: 100% !important; 
-    box-sizing: border-box; 
-    padding-left: 1rem; 
+  /* blow away the theme's width cap */
+  .wrapper,
+  section,
+  main,
+  .page-content,
+  .post,
+  .post-content {
+    max-width: none !important;
+    width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 1rem;
     padding-right: 1rem;
+    float: none !important;   /* neutralize Minimal theme's columns */
+    margin: 0 auto;
   }
 </style>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
