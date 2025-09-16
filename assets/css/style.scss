@@ -1,0 +1,35 @@
+---
+---
+
+/* Cayman theming (override defaults) */
+$header-bg-color: #0b1020;              /* top bar background */
+$header-bg-color-secondary: #1b6ef3;    /* gradient accent */
+$section-headings-color: #1b6ef3;       /* h2/h3 color */
+
+/* Optional: a little wider content */
+.page-content { max-width: 2000px; }
+
+/* load Cayman first */
+@import "jekyll-theme-cayman";
+
+/* Replace the gradient with YOUR image */
+.page-header{
+  position: relative;
+  background: none;
+  background-image: url('{{ "/assets/img/banner.jpg" | relative_url }}');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 6rem 1rem;        /* header height; tweak to taste */
+}
+
+/* Optional: darken for text contrast */
+.page-header::before{
+  content:"";
+  position:absolute; inset:0;
+  background: rgba(0,0,0,.35);
+}
+.page-header *{ position:relative; z-index:1; }
+
+/* Hide the “View on GitHub” button (optional) */
+.page-header .btn { display:none !important; }

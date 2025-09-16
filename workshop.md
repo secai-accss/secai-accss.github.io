@@ -8,6 +8,56 @@ This event brings together researchers at the intersection of security and artif
 - Location: TU Delft - Mekelweg 5, 2628 CD Delft
 - Register: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
 
+
+<h2>Keynote Speakers</h2>
+
+<div class="speaker">
+  <img src="{{ '/assets/img/maggie.jpg' | relative_url }}" alt="Dr. Mengyuan (Maggie) Zhang headshot" loading="lazy">
+  <div class="speaker-body">
+    <h3>Dr. Mengyuan (Maggie) Zhang <span>— Vrije Universiteit Amsterdam</span></h3>
+    <p><strong>Talk:</strong> <em>TBA</em></p>
+    <p><strong>About:</strong> Since 2024, Mengyuan is an Assistant Professor at the Vrije Universiteit (VU) Amsterdam in the Foundational and Experimental Security group of the Department of Computer Science. Previously, she worked as a Research Assistant Professor in the Department of Computing at the Hong Kong Polytechnic University and as an Experienced Researcher at Ericsson Research Canada. She received my B.E. and M.E. in Information Security from Nanjing University of Posts and Telecommunications, and hold a Ph.D. in Information and Systems Engineering from Concordia University, Montreal, Canada, under the supervision of Prof. Lingyu Wang.</p>
+    <p>Her interests include security metrics, software security, vulnerability assessment, cloud/5G security & privacy, and applied ML in security.</p>
+    <p>
+      <a href="https://mengyuanzhang.github.io/">Profile</a> ·
+      <a href="https://scholar.google.com/citations?user=XebXoxIAAAAJ">Google Scholar</a>
+    </p>
+  </div>
+</div>
+
+<hr>
+
+<div class="speaker">
+  <img src="{{ '/assets/img/tailia.jpg' | relative_url }}" alt="Dr. Tailia Malloy headshot" loading="lazy">
+  <div class="speaker-body">
+    <h3>Dr. Tailia Malloy <span>— University of Luxembourg</span></h3>
+    <p><strong>Talk:</strong> <em>Human-AI Interdependence in Security and Privacy</em></p>
+    <p><strong>Abstract:</strong> Large Language Models (LLMs) and other forms of Generative Artificial Intelligence (GAI) have become ubiquitous in real world applications. This has raised considerable concern over the potential harm that these systems may have in a wide variety of domains. To prevent negative security and privacy outcomes stemming from the use of these models, it is necessary to understand their threats and benefits. These threats are introduced by malicious applications by bad actors, such as social engineering or cyber-attacks, as well as unintentional use by benign actors such as insecure code generation or incorrect information dissemination. Potential benefits of these models include use by cybersecurity professionals to improve the effectiveness of their defense strategies and use by the public to help inform them of best practices to ensure their privacy and security. This is further complicated by the recent advancements in agentic AI, which adds additional complexity to our interaction with AI. In this talk I will detail a human centric perspective on understanding these various challenges and opportunities, drawing from human-computer interaction, cognitive science, and artificial intelligence research to highlight the importance of understanding how humans form interdependent relationships with AI models, and how this impacts security and privacy.</p>
+    <p><strong>About:</strong> Tailia Malloy (They/She) is a postdoc at the University of Luxembourg in the Interdisciplinary Center for Security, Reliability, and Trust, researching Large Language Model applications in personalization, cybersecurity, and human interaction. Before starting at UniLu, they had another position as a postdoc at Carnegie Mellon University in the Social and Decision Sciences department working in cognitive modeling with Generative AI models and Human-AI Interaction. They received their PhD from Rensselaer Polytech Institute in Cognitive Science, with their thesis focusing on Deep Reinforcement Learning and cognitive modeling. </p>
+  </div>
+</div>
+
+<style>
+.speaker{
+  display:flex; gap:1rem; align-items:flex-start;
+  background:#fff; border:1px solid #eee; border-radius:12px;
+  padding:16px; box-shadow:0 1px 3px rgba(0,0,0,.04); margin:1rem 0;
+}
+.speaker img{
+  width:110px; height:110px; border-radius:50%;
+  object-fit:cover; border:1px solid #eee; flex:0 0 110px;
+}
+.speaker-body{min-width:0}
+.speaker-body h3{margin:.2rem 0}
+.speaker-body h3 span{font-weight:400; color:#666}
+.speaker-body p{margin:.35rem 0}
+@media (max-width: 540px){
+  .speaker{flex-direction:column; align-items:center; text-align:center}
+  .speaker img{width:96px; height:96px}
+}
+</style>
+ 
+
 ## Programme
 The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU Delft.
 

@@ -1,5 +1,14 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "pages-themes/cayman@v0.2.0"
+
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-seo-tag
+
+url: "https://secai-accss.github.io"
+baseurl: ""
+repository: secai-accss/secai-accss.github.io
+title: "ACCSS – Security & AI"
+description: "Dutch Working Group on Security & AI"
+
+header_pages:
+  - workshop.md
