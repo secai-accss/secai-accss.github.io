@@ -8,7 +8,7 @@ The **Working Group Security & AI (Sec&AI)** represents all Dutch academic insti
 <div style="background:#fff3cd;border:1px solid #ffe08a;color:#533f03;border-radius:10px;padding:12px 16px;margin:18px 0;">
   <strong>Attention:</strong> The 2nd ACCSS Security & AI Workshop on Generative AI will be held on
   <strong>23 October 2025</strong> at <strong>TU Delft</strong>. All details are available
-  <a href="{{ '/workshop/' | relative_url }}">here</a>.
+  <a href="{{ '/workshop' | relative_url }}">here</a>.
 </div>
 
 <!-- The [2nd ACCSS Security & AI Workshop on Generative AI](/workshop) will take place on 23 October 2025 at the TU Delft, please find all information [here](/workshop). -->
