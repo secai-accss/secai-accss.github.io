@@ -58,7 +58,7 @@ This event brings together researchers at the intersection of security and artif
 </style>
  
 
-## Programme
+<!-- ## Programme
 The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU Delft.
 
 | **Time**    | **What**                |
@@ -72,7 +72,7 @@ The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU D
 | 13:00-13:45 | Keynote                 |
 | 13:45-14:00 | Coffee                  |
 | 14:00-15:30 | Breakout sessions       |
-| 15:30-???   | Drinks & Bitterballen   |
+| 15:30-???   | Drinks & Bitterballen   | -->
 
 ## Organizers
 
