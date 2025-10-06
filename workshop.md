@@ -73,3 +73,20 @@ The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU D
 | 13:45-14:00 | Coffee                  |
 | 14:00-15:30 | Breakout sessions       |
 | 15:30-???   | Drinks & Bitterballen   |
+
+## Organizers
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;align-items:start;max-width:1000px;margin:0 auto 1rem;">
+  <figure style="text-align:center;margin:0;">
+    <img src="{{ '/assets/img/katja-tuma.jpeg' | relative_url }}" alt="Katja Tuma" style="width:160px;height:160px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 8px;">
+    <figcaption><strong>Katja Tuma</strong><br><span style="opacity:.8">TU Eindhoven</span><br><a href="mailto:k.tuma@tue.nl">k.tuma@tue.nl</a></figcaption>
+  </figure>
+  <figure style="text-align:center;margin:0;">
+    <img src="{{ '/assets/img/megha-khosla.jpg' | relative_url }}" alt="Megha Khosla" style="width:160px;height:160px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 8px;">
+    <figcaption><strong>Megha Khosla</strong><br><span style="opacity:.8">TU Delft</span><br><a href="mailto:m.khosla@tudelft.nl">m.khosla@tudelft.nl</a></figcaption>
+  </figure>
+  <figure style="text-align:center;margin:0;">
+    <img src="{{ '/assets/img/thijs-van-ede.jpg' | relative_url }}" alt="Thijs van Ede" style="width:160px;height:160px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 8px;">
+    <figcaption><strong>Thijs van Ede</strong><br><span style="opacity:.8">University of Twente</span><br><a href="mailto:t.s.vanede@utwente.nl">t.s.vanede@utwente.nl</a></figcaption>
+  </figure>
+</div>
