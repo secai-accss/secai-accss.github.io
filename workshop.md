@@ -1,7 +1,6 @@
 # 2nd ACCSS Security & AI Workshop: Security and Privacy in the Age of Generative AI
-Don’t miss the 2nd ACCSS Security & AI workshop, which this year focuses on Generative AI in Security.
 
-Organised by the <a href="https://secai-accss.github.io" target="_blank" rel="noopener">ACCSS Working Group on AI & Security</a>, this event brings together researchers at the intersection of security and artificial intelligence to foster innovation and share cutting-edge ideas, experiences, and research opportunities.
+Organised by the <a href="https://secai-accss.github.io" target="_blank" rel="noopener">ACCSS Working Group on AI & Security</a>, this event brings together researchers at the intersection of security/privacy and artificial intelligence to foster innovation and share cutting-edge ideas, experiences, and research opportunities.
 
 A key feature of this year’s edition will be breakout sessions on topics collected from the community, enabling focused discussions and collaborative exchange on emerging challenges. Participants are also invited to submit posters to present their work and engage with peers in an open and interactive setting.
 
