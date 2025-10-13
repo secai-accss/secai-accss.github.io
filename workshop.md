@@ -9,7 +9,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 ## Details
 - Date: 23 October 2025 10:00-16:00 
 - Location: TU Delft - Mekelweg 5, 2628 CD Delft
-- Register: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
+- Register before 15th October: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
 
 
 <h2>Keynote Speakers</h2>
