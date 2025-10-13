@@ -9,7 +9,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 ## Details
 - Date: 23 October 2025 10:00-16:00 
 - Location: TU Delft - Mekelweg 5, 2628 CD Delft
-- Register before 15th October: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
+- Register before <strong>15th October</strong>: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
 
 
 <h2>Keynote Speakers</h2>
@@ -18,7 +18,11 @@ When registering, you will have the opportunity to suggest topics for the breako
   <img src="{{ '/assets/img/maggie.jpg' | relative_url }}" alt="Dr. Mengyuan (Maggie) Zhang headshot" loading="lazy">
   <div class="speaker-body">
     <h3>Dr. Mengyuan (Maggie) Zhang <span>— Vrije Universiteit Amsterdam</span></h3>
-    <p><strong>Talk:</strong> <em>TBA</em></p>
+    <p><strong>Talk Title:</strong> <em>Quantifiable Security: Challenges and Opportunities in the Age of AI</em>
+    </p>
+     <p><strong>Abstract:</strong> Quantifying security has always been at the heart of cybersecurity practice across industries. Metrics such as the Common Vulnerability Scoring System (CVSS) and the Exploit Prediction Scoring System (EPSS) provide the numerical foundation for vulnerability prioritisation, network hardening, and policy decisions. Yet, despite their ubiquity, these frameworks face persistent challenges: inconsistencies across databases, disagreements between assessors, and a lack of contextual understanding of system-wide risk. Human-based efforts delay security assessments, leading to larger attack windows.Recent advances in machine learning and generative AI introduce both new possibilities and new uncertainties. Predictive models can learn to forecast exploit likelihoods or automate vulnerability explanations, but when trained on inconsistent data, they risk amplifying human bias rather than resolving it.
+    This talk traces the evolution of quantifiable security, from standardised scoring frameworks, to the development of holistic system-level quantification, and finally to AI-driven prediction. I will also discuss current research that uncovers systemic inconsistencies in vulnerability datasets. It will finally outline emerging opportunities to build transparent, explainable, and confidence-aware metrics that bridge the gap between automated risk prediction and trustworthy human decision-making.
+     </p>
     <p><strong>About:</strong> Since 2024, Mengyuan is an Assistant Professor at the Vrije Universiteit (VU) Amsterdam in the Foundational and Experimental Security group of the Department of Computer Science. Previously, she worked as a Research Assistant Professor in the Department of Computing at the Hong Kong Polytechnic University and as an Experienced Researcher at Ericsson Research Canada. She received my B.E. and M.E. in Information Security from Nanjing University of Posts and Telecommunications, and hold a Ph.D. in Information and Systems Engineering from Concordia University, Montreal, Canada, under the supervision of Prof. Lingyu Wang.</p>
     <p>Her interests include security metrics, software security, vulnerability assessment, cloud/5G security & privacy, and applied ML in security.</p>
     <p>
@@ -34,7 +38,7 @@ When registering, you will have the opportunity to suggest topics for the breako
   <img src="{{ '/assets/img/tailia.jpg' | relative_url }}" alt="Dr. Tailia Malloy headshot" loading="lazy">
   <div class="speaker-body">
     <h3>Dr. Tailia Malloy <span>— University of Luxembourg</span></h3>
-    <p><strong>Talk:</strong> <em>Human-AI Interdependence in Security and Privacy</em></p>
+    <p><strong>Talk Title:</strong> <em>Human-AI Interdependence in Security and Privacy</em></p>
     <p><strong>Abstract:</strong> Large Language Models (LLMs) and other forms of Generative Artificial Intelligence (GAI) have become ubiquitous in real world applications. This has raised considerable concern over the potential harm that these systems may have in a wide variety of domains. To prevent negative security and privacy outcomes stemming from the use of these models, it is necessary to understand their threats and benefits. These threats are introduced by malicious applications by bad actors, such as social engineering or cyber-attacks, as well as unintentional use by benign actors such as insecure code generation or incorrect information dissemination. Potential benefits of these models include use by cybersecurity professionals to improve the effectiveness of their defense strategies and use by the public to help inform them of best practices to ensure their privacy and security. This is further complicated by the recent advancements in agentic AI, which adds additional complexity to our interaction with AI. In this talk I will detail a human centric perspective on understanding these various challenges and opportunities, drawing from human-computer interaction, cognitive science, and artificial intelligence research to highlight the importance of understanding how humans form interdependent relationships with AI models, and how this impacts security and privacy.</p>
     <p><strong>About:</strong> Tailia Malloy (They/She) is a postdoc at the University of Luxembourg in the Interdisciplinary Center for Security, Reliability, and Trust, researching Large Language Model applications in personalization, cybersecurity, and human interaction. Before starting at UniLu, they had another position as a postdoc at Carnegie Mellon University in the Social and Decision Sciences department working in cognitive modeling with Generative AI models and Human-AI Interaction. They received their PhD from Rensselaer Polytech Institute in Cognitive Science, with their thesis focusing on Deep Reinforcement Learning and cognitive modeling. </p>
   </div>
