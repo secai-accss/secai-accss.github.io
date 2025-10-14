@@ -10,6 +10,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 - Date: 23 October 2025 10:00-16:00 
 - Location: TU Delft - Mekelweg 5, 2628 CD Delft
 - Register before <strong>15th October</strong>: [https://forms.microsoft.com/e/5niriCUZ7V](https://forms.microsoft.com/e/5niriCUZ7V)
+- [Check here the program](#programme)
 
 
 <h2>Keynote Speakers</h2>
@@ -65,7 +66,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 </style>
  
 
-<!-- ## Programme
+## Programme
 The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU Delft.
 
 | **Time**    | **What**                |
@@ -73,13 +74,13 @@ The workshop will be held in Commissiekamer 3 - 20 Aula Conference Centre - TU D
 | 9:30-10:00  | Walk-in                 |
 | 10:00-10:10 | Welcome                 |
 | 10:10-11:00 | Keynote                 |
-| 11:00-11:20 | Coffee                  |
-| 11:20-12:00 | Poster/Breakout session |
-| 12:00-13:00 | Lunch                   |
-| 13:00-13:45 | Keynote                 |
-| 13:45-14:00 | Coffee                  |
-| 14:00-15:30 | Breakout sessions       |
-| 15:30-???   | Drinks & Bitterballen   | -->
+| 11:00-11:15 | Coffee                  |
+| 11:15-12:15 | Poster/Breakout session |
+| 12:15-13:15 | Lunch                   |
+| 13:15-14:15 | Keynote                 |
+| 14:150-14:30 | Coffee                  |
+| 14:30-16:00 | Breakout sessions       |
+| 16:00-    | Drinks & Bitterballen   |
 
 ## Organizers
 
