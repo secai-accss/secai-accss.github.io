@@ -19,7 +19,7 @@ When registering, you will have the opportunity to suggest topics for the breako
   <img src="{{ '/assets/img/Nicole' | relative_url }}" alt="Nicole van der Meulen headshot" loading="lazy">
   <div class="speaker-body">
     <h3>Nicole van der Meulen <span>— SURF</span></h3>
-    <p><strong>Talk Title:</strong> <em>To be announced</em></p>
+    <p><strong>Talk Title:</strong> <em>When artificial becomes authentic, how do I prove I am me?</em></p>
     <p><strong>Abstract:</strong> To be announced.</p>
     <p><strong>About:</strong> Nicole van der Meulen is an experienced professional and thought leader in the area of cybercrime and cyber security. Currently she serves as Cyber Security Innovation Lead at SURF. Previously she was the Head of Policy &amp; Development at Europol’s European Cybercrime Centre (EC3), where she was responsible, amongst others, for the Internet Organised Crime Threat Assessment (IOCTA). Prior to Europol, she held various positions in the Dutch public sector, academia and for nonprofit organisations all focused on enhancing the fight against cybercrime and improving cyber security. She obtained her PhD in 2010 from Tilburg University on a comparative study focusing on digital identity fraud in the United States and the Netherlands.</p>
   </div>
