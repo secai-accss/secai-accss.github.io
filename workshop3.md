@@ -16,12 +16,12 @@ When registering, you will have the opportunity to suggest topics for the breako
 <h2>Keynote Speakers</h2>
 
 <div class="speaker">
-  <img src="{{ '/assets/img/Nicole' | relative_url }}" alt="Nicole van der Meulen headshot" loading="lazy">
+  <img src="{{ '/assets/img/marten' | relative_url }}" alt="Marten van Dijk" loading="lazy">
   <div class="speaker-body">
-    <h3>Nicole van der Meulen <span>— SURF</span></h3>
-    <p><strong>Talk Title:</strong> <em>When artificial becomes authentic, how do I prove I am me?</em></p>
+    <h3><a href="https://www.cwi.nl/en/people/marten-van-dijk/" target="_blank" rel="noopener">Marten van Dijk</a> <span>— SURF</span></h3>
+    <p><strong>Talk Title:</strong> <em>To be announced.</em></p>
     <p><strong>Abstract:</strong> To be announced.</p>
-    <p><strong>About:</strong> Nicole van der Meulen is an experienced professional and thought leader in the area of cybercrime and cyber security. Currently she serves as Cyber Security Innovation Lead at SURF. Previously she was the Head of Policy &amp; Development at Europol’s European Cybercrime Centre (EC3), where she was responsible, amongst others, for the Internet Organised Crime Threat Assessment (IOCTA). Prior to Europol, she held various positions in the Dutch public sector, academia and for nonprofit organisations all focused on enhancing the fight against cybercrime and improving cyber security. She obtained her PhD in 2010 from Tilburg University on a comparative study focusing on digital identity fraud in the United States and the Netherlands.</p>
+    <p><strong>About:</strong> </p>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 <div class="speaker">
   <img src="{{ '/assets/img/fatih.jpg' | relative_url }}" alt="Fatih Turkmen headshot" loading="lazy">
   <div class="speaker-body">
-    <h3>Fatih Turkmen <span>— University of Groningen</span></h3>
+    <h3><a href="https://www.rug.nl/staff/f.turkmen/?lang=en" target="_blank" rel="noopener">Fatih Turkmen</a> <span>— University of Groningen</span></h3>
     <p><strong>Talk Title:</strong> <em>To be announced</em></p>
     <p><strong>Abstract:</strong> To be announced.</p>
     <p><strong>About:</strong> Fatih Turkmen is an Associate Professor at the University of Groningen, where he has been affiliated since 2019. His research focuses on the security and privacy of/with AI systems, privacy-enhancing technologies, as well as formal and empirical approaches to security analysis of software and hardware. He has extensive experience in designing and developing decentralized security solutions, particularly in contexts involving processing of sensitive data (e.g., genomic data) or access to services. More recently, his work has expanded into the security and privacy challenges of neuromorphic systems (often associated with in-memory computing). His research explores key questions such as: What are the security and privacy vulnerabilities in software and hardware implementations of neuromorphic systems and how do ML attacks transfer to such systems? In this context, he investigates vulnerabilities across both software and hardware, drawing on techniques from machine learning security, side-channel analysis, and fuzz testing. He has contributed to several national and international research initiatives in these domains, including the Dutch LESSEN project. He serves as an editor for the International Journal of Information Security (IJIS), was General Chair of the 26th Information Security Conference (ISC), and regularly serves in program committees of leading security and privacy conferences such as CCS, PETs, and SACMAT.</p>
