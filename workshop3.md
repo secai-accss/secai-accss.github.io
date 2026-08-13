@@ -16,9 +16,9 @@ When registering, you will have the opportunity to suggest topics for the breako
 <h2>Keynote Speakers</h2>
 
 <div class="speaker">
-  <img src="{{ '/assets/img/marten' | relative_url }}" alt="Marten van Dijk" loading="lazy">
+  <img src="{{ '/assets/img/marten.jpg' | relative_url }}" alt="Marten van Dijk" loading="lazy">
   <div class="speaker-body">
-    <h3><a href="https://www.cwi.nl/en/people/marten-van-dijk/" target="_blank" rel="noopener">Marten van Dijk</a> <span>— SURF</span></h3>
+    <h3><a href="https://www.cwi.nl/en/people/marten-van-dijk/" target="_blank" rel="noopener">Marten van Dijk</a> <span>— CWI and VU Amsterdam</span></h3>
     <p><strong>Talk Title:</strong> <em>To be announced.</em></p>
     <p><strong>Abstract:</strong> To be announced.</p>
     <p><strong>About:</strong> </p>
