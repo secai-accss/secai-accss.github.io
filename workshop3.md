@@ -2,7 +2,7 @@
 
 Organised by the <a href="https://secai-accss.github.io" target="_blank" rel="noopener">ACCSS Working Group on AI & Security</a>, this event brings together researchers at the intersection of security/privacy and artificial intelligence to foster innovation and share cutting-edge ideas, experiences, and collaboration opportunities.
 
-A key feature of this year’s edition will be breakout sessions on topics collected from the community, enabling focused discussions and collaborative exchange on emerging challenges. Participants are also invited to submit posters to present their work and engage with peers in an open and interactive setting.
+A key feature of this year’s edition will be breakout sessions on topics collected from the community, enabling focused discussions and collaborative exchange on emerging challenges. Participants are also invited to submit abstracts for short talks/posters to present their work and engage with peers in an open and interactive setting.
 
 When registering, you will have the opportunity to suggest topics for the breakout sessions, helping shape the conversation.
 
