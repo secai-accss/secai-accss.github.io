@@ -10,7 +10,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 - Date: 24th September 2026
 - Location: CVD Apeldoorn (Wapenrustlaan 11, 7321 DL Apeldoorn)
 - Registration: [Register here](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&token=96b2a2ce538c47b08e310a618ed7a5c6&id=oUYycvXDxUOs3EOttASsTYMOvQu-34dGnACrN6AGnhBUM1owQTk4VVdUT01JSE1CRE9HTldDRUhHRC4u)
-- Program: To be announced
+- Program: See the tentative programme below
 
 
 <h2>Keynote Speakers</h2>
@@ -61,7 +61,21 @@ We will explain recent theoretical results on the impossibility and possibility 
 
 
 ## Programme
-To be announced.
+
+*Tentative programme—times and sessions are subject to change.*
+
+| Time | Activity |
+| --- | --- |
+| 9:30–10:00 | Walk-in |
+| 10:00–10:10 | Welcome |
+| 10:10–11:10 | Keynote by Marten van Dijk|
+| 11:10–11:30 | Coffee + posters |
+| 11:30–12:15 | Talks |
+| 12:15–13:15 | Lunch |
+| 13:15–14:15 | Keynote by Fatih Turkmen|
+| 14:15–14:35 | Coffee + posters |
+| 14:35–15:45 | Breakout sessions + Panel discussion |
+| 15:45– | Drinks & Bitterballen + posters |
 
 ## Organizers
 
