@@ -9,7 +9,7 @@ When registering, you will have the opportunity to suggest topics for the breako
 ## Details
 - Date: 24th September 2026
 - Location: CVD Apeldoorn (Wapenrustlaan 11, 7321 DL Apeldoorn)
-- Registration: [Register here](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&token=96b2a2ce538c47b08e310a618ed7a5c6&id=oUYycvXDxUOs3EOttASsTYMOvQu-34dGnACrN6AGnhBUM1owQTk4VVdUT01JSE1CRE9HTldDRUhHRC4u)
+- Registration: [Register here](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2Fe%2F8Q3atVJnfz&data=05%7C02%7CM.Khosla%40tudelft.nl%7C276c5322e4f84636933d08df08e10933%7C096e524d692940308cd38ab42de0887b%7C0%7C0%7C639239434872386190%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4Gm%2BVzAhRra%2FWAqQuwGgZfiFyF54i8ARDPS5VIFfUTg%3D&reserved=0)
 - Program: See the tentative programme below
 
 
